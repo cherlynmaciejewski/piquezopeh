@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oephazini.pujcovna-nosicu-kol.cz/sitemap.xml
